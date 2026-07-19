@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Local Library Kiosk Logging System</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Kiosk Log</h1>
+  </header>
+  <main class="container">
+    <div class="layout-grid">
+      <section id="form-section">
+        <h2>New Entry</h2>
+        <div id="log-form"></div>
+        <div id="status-banner" aria-live="polite"></div>
+      </section>
+      <section id="list-section">
+        <h2>Activity Log</h2>
+        <div id="search-bar"></div>
+        <div id="log-list"></div>
+      </section>
+    </div>
+  </main>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

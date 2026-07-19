@@ -1,0 +1,12 @@
+{
+  "name": "local-library-kiosk-logging-system",
+  "version": "1.0.0",
+  "description": "ENG-22393: Local Library Kiosk Logging System",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint \"js/**/*.js\""
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
