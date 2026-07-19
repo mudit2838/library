@@ -4,6 +4,11 @@ A lightweight browser-based **Local Library Kiosk Logging System** built with **
 
 This project was developed as part of the **ENG-22393** engineering assignment under the **Core Infrastructure Overhaul** initiative.
 
+
+## 🔗 Project Links
+* **Live Demo:** [https://library-sandy-nine.vercel.app]
+* **GitHub Repository:** [https://github.com/mudit2838/library.git]
+
 ---
 
 ## 📖 Overview
